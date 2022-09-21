@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ARTCTS
+- 👀 I’m interested in music, sports, code and art.
+- 🌱 I’m currently learning Ruby on Rails and React.
+- 📫 I'm open to any new opportunity, don't hesitate to contact me at arthur@coutas.com
