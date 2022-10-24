@@ -9,8 +9,12 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/arthur-coutas](www.linkedin.com/in/arthur-coutas)
 
+- ⚡ Codewars **www.codewars.com/users/ARTCTS**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/arthur-coutas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur-coutas" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20323436" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20323436" height="30" width="40" /></a>
 <a href="https://instagram.com/arthurcoutas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arthurcoutas" height="30" width="40" /></a>
 </p>
 
