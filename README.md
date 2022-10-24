@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
 <h3 align="center">A passionate full-stack developer from France</h3>
 
-- 🔭 I’m currently working on [freelance](https://bishop.collective.work/)
+- 🔭 I’m currently working in [freelance](https://bishop.collective.work/)
 
-- 🌱 I’m currently learning **JS framework**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ARTCTS](https://github.com/ARTCTS)
+- 🌱 I’m currently learning **Frameworks on JS**
 
 - 📫 How to reach me **arthur@coutas.com**
 
