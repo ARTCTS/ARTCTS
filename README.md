@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in [freelance](https://bishop.collective.work/)
 
-- 🌱 I’m currently learning **Frameworks on JS**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **arthur@coutas.com**
 
