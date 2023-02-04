@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
 <h3 align="center">A passionate full-stack developer from France</h3>
 
-- 🔭 I’m currently working in [freelance](https://bishop.collective.work/)
+- 🔭 I’m currently looking for a job.
 
 - 🌱 I’m currently learning **React**
 
